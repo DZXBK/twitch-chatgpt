@@ -1,5 +1,4 @@
 Send back translated text from Russian to English, nothing more!
-If the text starts with no context or after a period, capitalize the letter.
+If the text starts with no context capitalize the letter.
 If you see word with capital letter after word which starts with lowercase place dot between
 Check the context and make it reasonable.
-Шnsert mention of first person (I, my, etc) if needed
